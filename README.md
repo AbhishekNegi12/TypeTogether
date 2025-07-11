@@ -9,18 +9,9 @@ TypeTogether is a full-stack, real-time collaborative document editor built with
 ---
 
 ## Screenshots
-
-Add screenshots of the project to showcase the UI and features:
-
-1. Take screenshots of key pages and features (e.g., dashboard, document editor, comments, presence indicators).
-2. Save your screenshots in the `public/assets/screenshots/` directory.
-3. Reference them in this section using Markdown:
-
-    ```md
-    ![SignIn](public/assets/screenshots/signin.png)
-    ![Dashboard](public/assets/screenshots/dashboard.png)
-    ![Editor](public/assets/screenshots/editor.png)
-    ```
+![SignIn](public/assets/screenshots/signin.png)
+![Dashboard](public/assets/screenshots/dashboard.png)
+![Editor](public/assets/screenshots/editor.png)
 
 ---
 
