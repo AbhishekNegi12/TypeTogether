@@ -2,7 +2,7 @@
 TypeTogether is a full-stack, real-time collaborative document editor built with Next.js, Liveblocks, Clerk, Lexical, Typescript and Tailwind CSS. It empowers users to create, edit, and share documents with seamless real-time collaboration, live presence, and threaded commenting. Designed for teams and individuals, TypeTogether delivers a modern, secure, and highly interactive editing experience.
 
 # Demo
-- **[Live Demo]()** : Check out the live version of TypeTogether to see its features in action.
+- **[Live Demo](https://type-together-nu.vercel.app/)** : Check out the live version of TypeTogether to see its features in action.
 # Video
 - **[Project Overview Video]()**: Watch a video demonstration of the project, including its main features and functionality.
 
