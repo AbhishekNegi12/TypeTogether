@@ -162,7 +162,7 @@ Liveblocks is the backbone of real-time collaboration in TypeTogether. Here’s 
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/TypeTogether.git
+   git clone https://github.com/AbhishekNegi12/TypeTogether.git
    cd TypeTogether
    ```
 
