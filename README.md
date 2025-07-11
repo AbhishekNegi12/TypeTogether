@@ -17,9 +17,9 @@ Add screenshots of the project to showcase the UI and features:
 3. Reference them in this section using Markdown:
 
     ```md
+    ![SignIn](public/assets/screenshots/signin.png)
     ![Dashboard](public/assets/screenshots/dashboard.png)
     ![Editor](public/assets/screenshots/editor.png)
-    ![Comments](public/assets/screenshots/comments.png)
     ```
 
 ---
