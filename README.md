@@ -9,7 +9,7 @@ TypeTogether is a full-stack, real-time collaborative document editor built with
 ---
 
 ## Screenshots
-![SignIn](public/assets/screenshots/SignIn.png)
+![SignIn](public/assets/screenshots/login.png)
 ![Dashboard](public/assets/screenshots/dashboard.png)
 ![Editor](public/assets/screenshots/editor.png)
 
